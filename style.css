@@ -6,7 +6,11 @@ body
 }
 #cabecera
 {
+<<<<<<< HEAD
     background: red;
+=======
+    background: greenyellow;
+>>>>>>> master
     color: white;
     margin: 0;
     padding: 0.5em;
